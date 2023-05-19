@@ -1,0 +1,4 @@
+In autoexec.lua, paste any and all scripts you want to run whenever
+celery loads up in a game.
+
+Also, don't change the filename...it must be "autoexec.lua" :)
